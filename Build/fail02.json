@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "1_project",
+"dataUrl": "fail02.data.unityweb",
+"asmCodeUrl": "fail02.asm.code.unityweb",
+"asmMemoryUrl": "fail02.asm.memory.unityweb",
+"asmFrameworkUrl": "fail02.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
